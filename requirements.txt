@@ -1,0 +1,10 @@
+streamlit==1.50.0
+streamlit-option-menu==0.4.0
+numpy
+pandas
+scikit-learn
+matplotlib
+tensorflow  
+xgboost    
+pickle-mixin
+
