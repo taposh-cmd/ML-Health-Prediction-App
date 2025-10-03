@@ -87,10 +87,10 @@ if (selected == 'Diabetes Prediction'):
 
 
 # Heart Disease Prediction Page
-if (selected == 'Heart Disease Prediction Model'):
+if (selected == 'Heart Disease Prediction'):
     
     # page title
-    st.title('Heart Disease Prediction')
+    st.title('Heart Disease Prediction Model')
     
     col1, col2, col3 = st.columns(3)
     
