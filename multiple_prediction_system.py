@@ -37,7 +37,7 @@ with st.sidebar:
 if (selected == 'Diabetes Prediction'):
     
     # page title
-    st.title('Diabetes Prediction System')
+    st.title('Diabetes Prediction System Model')
     
     
     # getting the input data from the user
@@ -87,7 +87,7 @@ if (selected == 'Diabetes Prediction'):
 
 
 # Heart Disease Prediction Page
-if (selected == 'Heart Disease Prediction'):
+if (selected == 'Heart Disease Prediction Model'):
     
     # page title
     st.title('Heart Disease Prediction')
@@ -158,7 +158,7 @@ if (selected == 'Heart Disease Prediction'):
 if (selected == "Parkinsons Prediction"):
     
     # page title
-    st.title("Parkinson's Disease Prediction")
+    st.title("Parkinson's Disease Prediction Model")
     
     col1, col2, col3, col4, col5 = st.columns(5)  
     
